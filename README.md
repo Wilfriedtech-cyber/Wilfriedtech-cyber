@@ -1,8 +1,8 @@
 <h1>Hi, I'm Wilfried! <br/><a href="https://www.linkedin.com/in/wilfried-ogou-111448253/">Cybersecurity Student</a>,
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Java</b>
+
 
 -<b> Active Directory Project </b>
   
