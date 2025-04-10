@@ -1,23 +1,50 @@
-<h1>Hi, I'm Wilfried! <br/><a href="https://www.linkedin.com/in/wilfried-ogou-111448253/">Cybersecurity Student</a>,
+<h1 align="center">Hi, I'm Wilfried 👋</h1>
+<h3 align="center"><a href="https://www.linkedin.com/in/wilfried-ogou-111448253/" target="_blank">Cybersecurity Student | Future Cybersecurity Analyst</a></h3>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-- <b>Java</b>
+---
 
+### 🧠 About Me
 
--<b> Active Directory Project </b>
-  
+🎯 I am an aspiring **Cybersecurity Analyst** with a strong foundation in IT and a deep passion for solving complex security challenges. I bring hands-on experience from my home lab, and certifications that back my technical knowledge.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎯 Objectives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Grow as a Cybersecurity Analyst with a strong technical and investigative mindset  
+- Gain real-world experience through labs, simulations, and collaborative projects  
+- Continue expanding my knowledge in **ethical hacking**, **network security**, and **incident response**
+
+---
+
+### 📜 Certifications
+
+- ✅ CompTIA A+  
+- ✅ CompTIA Network+  
+
+---
+
+### 🔐 Cybersecurity Projects
+
+#### 🖥️ Active Directory & Networking
+
+#### ☕ Java Encryption
+---
+
+### 💻 Platforms I Use to Learn & Practice
+
+<p>
+ <a href="https://tryhackme.com/login" target="_blank">
+  <img src="https://raw.githubusercontent.com/tryhackme/branding/main/PNG/tryhackme_logo_full.png" alt="TryHackMe" width="160"/>
+</a>
+</p>
+---
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/wilfried-ogou-111448253/)  
+- [TryHackMe Profile](https://tryhackme.com/p/WilfriedOG)
+
+---
+
+*“The best defense is a well-informed one.”* 🔐
