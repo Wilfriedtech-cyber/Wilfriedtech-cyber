@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wilfried 👋</h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/wilfried-ogou-111448253/" target="_blank">Cybersecurity Student | Aspiring Security Analyst</a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/wilfried-ogou-111448253/" target="_blank">Cybersecurity Student | Aspiring Incident responder</a></h3>
 
 ---
 
@@ -13,7 +13,7 @@
 
 - Grow as a Cybersecurity Analyst with a strong technical and investigative mindset  
 - Gain real-world experience through labs, simulations, and collaborative projects  
-- Continue expanding my knowledge in **ethical hacking**, **network security**, and **incident response**
+- Continue expanding my knowledge in **digital forensics**, **network security**, and **incident response**
 
 ---
 
