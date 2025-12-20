@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-🎯 I am an aspiring **Incident Responder** with a strong foundation in IT and a deep passion for solving complex security challenges. I bring hands-on experience from practicing on online platform such as **Tryhackme**, **Blueteam labs Online**, **Hack the box** and certifications that back my technical knowledge.
+🎯 I am an aspiring **Incident Responder** with a strong foundation in IT and a deep passion for solving complex security challenges. I bring hands-on experience from practicing on online platform such as **Tryhackme**, **Blueteam labs Online**, **Hack the box** and certifications that back up my technical knowledge.
 
 ---
 
