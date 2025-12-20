@@ -38,7 +38,7 @@
 
 <p>
  <a href="https://tryhackme.com/login" target="_blank">
-  <img src="https://raw.githubusercontent.com/tryhackme/branding/main/PNG/tryhackme_logo_full.png" alt="TryHackMe" width="160"/>
+  Tryhackme
 </a>
 </p>
 
