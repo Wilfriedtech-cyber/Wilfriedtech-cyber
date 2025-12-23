@@ -22,7 +22,7 @@
 - ✅ CompTIA A+  
 - ✅ CompTIA Network+  
 - ✅ CompTIA Security+
-- ✅ BLUE TEAM LEVEL 1 (IN PROGRESS)  
+- ✅ BLUE TEAM LEVEL 1 
   
 
 ---
