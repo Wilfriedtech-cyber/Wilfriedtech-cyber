@@ -29,8 +29,6 @@
 
 ### 🔐 Cybersecurity Projects
 
-#### 🖥️ Active Directory & Networking
-
 #### ☕ Java Encryption
 ---
 
