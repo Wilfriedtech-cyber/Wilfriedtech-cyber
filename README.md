@@ -22,7 +22,9 @@
 - ✅ CompTIA A+  
 - ✅ CompTIA Network+  
 - ✅ CompTIA Security+
-- ✅ BLUE TEAM LEVEL 1 
+- ✅ BLUE TEAM LEVEL 1
+- ✅ CompTIA CYSA+
+- ✅ Splunk Core Certified User
   
 
 ---
