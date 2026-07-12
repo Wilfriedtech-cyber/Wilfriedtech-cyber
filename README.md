@@ -45,7 +45,7 @@ Each scenario emulates a real attack chain using Caldera, then builds behavior-b
 |---|---|---|
 | [Credential Dumping via LSASS (Mimikatz)](https://github.com/Wilfriedtech-cyber/Threat-emulation-and-Detection-Scenario/blob/main/Credential%20Dumping%20via%20LSASS(Mimikatz).md) | T1003.001 • T1550.002 • T1059.001 | ✅ Published |
 | [SMB Lateral Movement & Data Exfiltration](https://github.com/Wilfriedtech-cyber/Threat-emulation-and-Detection-Scenario/blob/main/SMB%20Lateral%20Movement%20%26%20Data%20Exfiltration.md) | T1021.002 • T1074.001 • T1041 | ✅ Published |
-| Honeypot Attacker Fingerprinting via Cowrie SSH | T1110 • T1059 • T1082 | 🔄 In Progress |
+| Honeypot Attacker Fingerprinting via Cowrie SSH | T1110 • T1059 • T1082 | ✅ Published |
 | Persistence via Scheduled Task & Registry Run Key | T1053.005 • T1547.001 | 🔄 In Progress |
 
 ---
