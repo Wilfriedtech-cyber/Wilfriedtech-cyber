@@ -1,5 +1,5 @@
 <h1 align="center">Wilfried Ogou</h1>
-<h3 align="center">Cybersecurity Student | Application Technician | </h3>
+<h3 align="center">Cybersecurity Student | Application Control Technician </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilfried-ogou/">LinkedIn</a> •
