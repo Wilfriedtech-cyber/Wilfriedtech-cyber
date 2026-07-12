@@ -14,7 +14,7 @@ Junior at the **University of Central Florida** pursuing a B.S. in Information T
 
 I use my free time to build labs, break things, and document everything.
 
-**Target role:** Security Analyst in the cleared defense space.
+**Target role:** Security Analyst.
 
 ---
 
